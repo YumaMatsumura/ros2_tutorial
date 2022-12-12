@@ -13,8 +13,7 @@ ros2 launch ros2_tutorial tutorial001.launch.py
 * SplitSubSubscriber：サブのクラス
 * NumSubscriber：subscribeするためのクラス
 
-```python
-/*
+```bash
 #=== SplitSubscriber Node ======================#
 |                                               |
 |  #=======================#                    |
@@ -40,5 +39,4 @@ ros2 launch ros2_tutorial tutorial001.launch.py
 |  #======================#                     |
 |                                               |
 #===============================================#
-*/
 ```
